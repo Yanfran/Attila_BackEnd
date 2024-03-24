@@ -1,0 +1,16 @@
+Editar clientes = rev
+Verificar cliente = rev
+Añadir usuario desde admin = rev
+Añadir monedas de igual nombre = rev
+
+Ver referidos directos = rev
+
+Crear codigo QR para hash = listo
+Añadir control de roles
+Crud de mensajes
+Monto de porcentaje a personas
+
+// Usuario clientes
+Tema del cuadro
+Añadir modificacion de productos
+El cliente no puede cambiar sus datos solo el admin
